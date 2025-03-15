@@ -1,7 +1,4 @@
-## 链: 根植安全，链生万象。创建您的专属区块链 👋
-
-
-比特基链：安全共享，灵活定制，构建无限可能的区块链未来
+## 比特基链: 根植安全，链生万象。创建您的专属区块链，构建无限可能的区块链未来 👋
 
 比特基链是一个创新的区块链项目，它巧妙地将全球最安全的区块链网络——比特币的强大算力，赋予自身及其衍生的无数条独立子链。这意味着，每一个在比特基链上创建的区块链，都将拥有与比特币同级别的安全保障，无需再为底层安全投入巨额成本。
 
@@ -27,6 +24,33 @@
 比特基链，让区块链的创新触手可及。
 
 
-[白皮书](https://github.com/BitRootChain/BitRootChain/blob/main/doc/whitepaper_zh.md)
+---
+## BitRootChain: Rooted in Security, Chains Sprout Limitlessly. Create Your Exclusive Blockchain, Building an Infinitely Possible Blockchain Future 👋
 
-[讨论论坛](https://github.com/orgs/BitRootChain/discussions)
+BitRootChain is an innovative blockchain project that ingeniously leverages the powerful hash rate of the world's most secure blockchain network – Bitcoin – to empower itself and its countless derived independent sub-chains. This means that every blockchain created on BitRootChain will possess the same level of security as Bitcoin, without the need for significant independent security costs.
+
+The core of BitRootChain lies in its flexible multi-chain architecture. It allows developers to easily create and manage fully independent sub-chains, each of which can be deeply customized for specific application scenarios, including:
+
+* Custom Native Tokens: Issue exclusive digital assets to drive the sub-chain ecosystem.
+* Custom Digital Asset Types: Support various types of digital assets, such as NFTs and stablecoins.
+* Custom Smart Contract Platforms: Choose or build the most suitable smart contract execution environment.
+* Custom Consensus Mechanisms (Optional): Further optimize transaction confirmation speeds and governance models while inheriting Bitcoin's security.
+
+This high degree of flexibility enables BitRootChain to be widely applied across various fields, such as Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Supply Chain Management, the Internet of Things (IoT), and Digital Identity. Developers can focus on application innovation without worrying about the limitations of underlying security and infrastructure.
+
+BitRootChain's vision is to break down the barriers of existing blockchain platforms and build an interconnected, secure, and efficient blockchain ecosystem. Guided by the principle of "Shared Security, Flexible Customization," BitRootChain aims to become a key force in the next generation of blockchain infrastructure, empowering developers and businesses to build infinitely possible blockchain applications and jointly shape the future of the digital economy.
+
+#### Key Highlights:
+
+* Bitcoin-Level Security: All sub-chains are secured by Bitcoin's powerful hash rate.
+* Infinite Scaling Potential: Supports the creation of countless independently operating sub-chains.
+* Highly Flexible Customization: Each sub-chain can customize its tokens, assets, and smart contracts.
+* Wide Range of Applications: Suitable for industries such as DeFi, NFTs, and Supply Chain.
+* Future Interconnectivity: Committed to achieving the free flow of assets and data between sub-chains.
+
+BitRootChain: Making blockchain innovation accessible.
+
+
+[白皮书 whitepaper](https://github.com/BitRootChain/BitRootChain/blob/main/doc/whitepaper_zh.md)
+
+[讨论论坛 discussions](https://github.com/orgs/BitRootChain/discussions)
