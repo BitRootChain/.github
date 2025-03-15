@@ -4,6 +4,6 @@
 比特基链是一个创新的多链平台，其安全性由比特币的强大算力保障。它允许开发者轻松创建并管理高度定制化的子链，每条子链都可拥有独立的原生代币、数字资产和智能合约功能。比特基链旨在提供一个安全、可扩展且灵活的区块链基础设施，赋能各种应用场景的创新与发展。
 
 
-[白皮书]()
+[白皮书](https://github.com/BitRootChain/BitRootChain/blob/main/doc/whitepaper_zh.md)
 
 [讨论论坛](https://github.com/orgs/BitRootChain/discussions)
