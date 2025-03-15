@@ -51,6 +51,6 @@ BitRootChain's vision is to break down the barriers of existing blockchain platf
 BitRootChain: Making blockchain innovation accessible.
 
 
-[白皮书 whitepaper](https://github.com/BitRootChain/BitRootChain/blob/main/doc/whitepaper_zh.md)
+[白皮书 whitepaper](https://github.com/BitRootChain/BitRootChain/blob/main/doc/)
 
 [讨论论坛 discussions](https://github.com/orgs/BitRootChain/discussions)
